@@ -1,4 +1,4 @@
-Otomatize sosyal medya (Twitter, Facebook, Google+*******) paylaşımlarını nasıl yürütüyoruz?
+Otomatize sosyal medya (Twitter, Facebook, Google+*) paylaşımlarını nasıl yürütüyoruz?
 ====
 
-**: Kullanan var mı bunu?*
+*: Kullanan var mı bunu?
