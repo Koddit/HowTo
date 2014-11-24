@@ -1,6 +1,6 @@
 Koddit - Manual
 =====
-"*Koddit'e yazar olarak katılan veya içeride işler nasıl dönüyor diye merak edenin **(ne konuşuyosunuz orda fısır fısır?)** yareni ve yoldaşıdır Koddit - Manual!*" **- Ahmet Koddit**
+"*Koddit'e yazar olarak katılan veya içeride işler nasıl dönüyor diye merak edenin (ne konuşuyosunuz orda fısır fısır?) yareni ve yoldaşıdır Koddit - Manual!*" **- Ahmet Koddit**
 İçindekiler
 =====
 ___
