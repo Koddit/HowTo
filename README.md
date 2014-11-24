@@ -1,2 +1,2 @@
-HowTo
+Koddit - Manual
 =====
